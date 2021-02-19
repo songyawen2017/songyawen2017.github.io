@@ -1,6 +1,6 @@
 # Hydeout
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
+Hydeout updates the original [Hyde](https://github.com/songyawen2017/songyawen.github.io)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 
 ![Desktop](/_screenshots/1.png?raw=true)
