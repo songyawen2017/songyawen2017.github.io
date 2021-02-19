@@ -1,4 +1,3 @@
-个人博客
 # Hydeout
 
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
