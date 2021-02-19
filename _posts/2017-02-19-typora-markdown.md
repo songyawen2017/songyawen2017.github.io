@@ -18,6 +18,8 @@ Typora是一款轻便简洁的Markdown编辑器，支持即时渲染技术，这
 - Typora删除了预览窗口，以及所有其他不必要的干扰。取而代之的是实时预览。
 - Markdown的语法因不同的解析器或编辑器而异，Typora使用的是[GitHub Flavored Markdown](https://help.github.com/articles/basic-writing-and-formatting-syntax/)。
 
+<!--more-->
+
 ## 2.Markdown介绍
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。
@@ -28,7 +30,6 @@ Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多�
 
 Markdown 编写的文档后缀为 `.md`, `.markdown`。
 
-<!--more-->
 
 ## 3.常用快捷键
 
