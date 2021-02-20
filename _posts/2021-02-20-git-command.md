@@ -28,6 +28,7 @@ last_modified_at: 2017-03-09T10:55:59-05:00
    * 给出了一些操作的命令：(use "git add <file>..." to include in what will be committed)
 
    * 未跟踪的文件列表：readme.txt
+<!--more-->
 
      <!--more-->
 
