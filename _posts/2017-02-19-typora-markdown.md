@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post:Typora Markdown"
+title: "Typora Markdown语法"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post:servlet serverConfig"
+title: "Servlet配置"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
