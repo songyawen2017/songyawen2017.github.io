@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "git本地与github交互"
+title: "git工作流"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
@@ -13,9 +13,9 @@ last_modified_at: 2017-03-09T10:55:59-05:00
 
 
 
-## git本地与github交互
+## git工作流
 
-### 步骤：
+### git本地与github交互步骤：
 
 1. 生成SSH-key，并添加到中央仓库
 
