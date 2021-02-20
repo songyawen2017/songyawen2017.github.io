@@ -29,6 +29,8 @@ last_modified_at: 2017-03-09T10:55:59-05:00
 
    * 未跟踪的文件列表：readme.txt
 
+     <!--more-->
+
 2. **新增文件到暂存区**:`git add "新文件名"`
 
    PS : 新增多个文件  git add 文件夹
