@@ -35,4 +35,4 @@ last_modified_at: 2017-03-09T10:55:59-05:00
 
 8. 负责任负责将origin/brh合并到origin/main
 
-![image-20210220142026127](../img/image-20210220142026127.png)
+![image-20210220142026127](/img/image-20210220142026127.png)
