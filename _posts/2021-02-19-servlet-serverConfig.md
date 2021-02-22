@@ -15,7 +15,7 @@ last_modified_at: 2019-02-19T10:55:59-05:00
 
 ### 关联tomcat安装地址
 
-<img alt="Mobile home page" src="/img/servlet/image-20210219170500898.png?raw=true" width="300px" />
+<img alt="Mobile home page" src="/img/image-20210219170500898.png?raw=true" width="300px" />
 
 <!--more-->
 
