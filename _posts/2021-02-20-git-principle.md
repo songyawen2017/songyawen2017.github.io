@@ -33,7 +33,7 @@ git跟传统的代码管理器（如:svn）不同， 主要区别在于git多了
 
 **远程仓库:** 即保存我们代码的服务器，本文以公共版本控制系统：**github**为例，登录github账号后可直观显示；
 
-<img alt="Mobile home page" src="../img/image-20210220144431394.png?raw=true" width="300px" />
+<img alt="Mobile home page" src="/img/image-20210220144431394.png?raw=true" width="300px" />
 
 ### 文件状态变化
 
