@@ -37,7 +37,7 @@ git跟传统的代码管理器（如:svn）不同， 主要区别在于git多了
 
 ### 文件状态变化
 
-<img alt="Mobile home page" src="../img/image-20210220150650310.png?raw=true" />
+<img alt="Mobile home page" src="/img/image-20210220150650310.png?raw=true" />
 
 **说明：**
 
