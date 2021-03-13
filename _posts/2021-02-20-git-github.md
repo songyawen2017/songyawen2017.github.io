@@ -31,7 +31,7 @@ last_modified_at: 2017-03-09T10:55:59-05:00
 
 6. 合并远程分支，解决冲突（origin/brh -> brh: 远程分支合并到本地）
 
-7. 将本地分支推送到远程仓库
+7. 将本地分支推送到远程仓库(git push -u origin main)
 
 8. 负责任负责将origin/brh合并到origin/main
 
