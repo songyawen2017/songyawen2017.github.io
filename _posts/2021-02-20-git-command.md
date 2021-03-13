@@ -36,7 +36,7 @@ last_modified_at: 2017-03-09T10:55:59-05:00
 
    PS : 新增多个文件  git add 文件夹
 
-   PS：新增所有文件 git add  --all
+   PS：新增所有文件 git add  - -all
 
 3. **提交文件到本地仓库**:`git commit -a -m "注释"`  
 
